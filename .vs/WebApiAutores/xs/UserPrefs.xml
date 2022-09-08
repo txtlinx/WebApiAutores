@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{25EDF068-C242-4A7D-A82B-8973B49AE5FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiAutores/Program.cs">
+    <Files>
+      <File FileName="WebApiAutores/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApiAutores" expanded="True">
+            <Node name="WebApiAutores" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApiAutores PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
